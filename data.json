@@ -1,0 +1,106 @@
+{
+    "guajolotas": [
+      {
+        "id": 0,
+        "name": "Verde",
+        "price": 25,
+        "imgUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1637008440/guappjolotas/guajolotas-verde_gojf06.svg",
+        "flavorUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1636911028/guappjolotas/verde_gxxzng.svg"
+      },
+      {
+        "id": 1,
+        "name": "Mole",
+        "price": 25,
+        "imgUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1637008440/guappjolotas/guajolotas-mole_zscaon.svg",
+        "flavorUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1636911025/guappjolotas/mole_jdnsaf.svg"
+      },
+      {
+        "id": 2,
+        "name": "Guayaba",
+        "price": 25,
+        "imgUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1637008444/guappjolotas/guajolotas-guayaba_h7rc4n.svg",
+        "flavorUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1636911025/guappjolotas/guayaba_ndl6pa.svg"
+      },
+      {
+        "id": 3,
+        "name": "Piña",
+        "price": 25,
+        "imgUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1637008444/guappjolotas/guajolotas-pina_zgteez.svg",
+        "flavorUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1636911026/guappjolotas/pina_x4zmw5.svg"
+      },
+      {
+        "id": 4,
+        "name": "Pasas",
+        "price": 25,
+        "imgUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1637008443/guappjolotas/guajolotas-pasas_i0fo5u.svg",
+        "flavorUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1636911026/guappjolotas/pasas_jw4mty.svg"
+      }
+    ],
+    "bebidas": [
+      {
+        "id": 0,
+        "name": "Champurrado",
+        "price": 12,
+        "imgUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1637008440/guappjolotas/bebidas-champurrado_e07ghq.svg",
+        "flavorUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1636911024/guappjolotas/champurrado_n5ysjk.svg"
+      },
+      {
+        "id": 1,
+        "name": "Atole de Arroz con Leche",
+        "price": 12,
+        "imgUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1637008440/guappjolotas/bebidas-arroz_psxtiy.svg",
+        "flavorUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1636911024/guappjolotas/arroz_ejfgqp.svg"
+      },
+      {
+        "id": 2,
+        "name": "Chocolate Caliente",
+        "price": 12,
+        "imgUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1637008440/guappjolotas/bebidas-chocolate_ryilqe.svg",
+        "flavorUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1636911024/guappjolotas/chocolate_zpdytu.svg"
+      },
+      {
+        "id": 3,
+        "name": "Café Negro",
+        "price": 12,
+        "imgUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1637008440/guappjolotas/bebidas-cafe_avyw7u.svg",
+        "flavorUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1636911024/guappjolotas/cafe_ull7op.svg"
+      }
+    ],
+    "tamales": [
+      {
+        "id": 0,
+        "name": "Tamal Verde",
+        "price": 14,
+        "imgUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1637008443/guappjolotas/tamales-verde_ltaiqs.svg",
+        "flavorUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1636911028/guappjolotas/verde_gxxzng.svg"
+      },
+      {
+        "id": 1,
+        "name": "Tamal de Mole",
+        "price": 14,
+        "imgUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1637008442/guappjolotas/tamales-mole_xz29ih.svg",
+        "flavorUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1636911025/guappjolotas/mole_jdnsaf.svg"
+      },
+      {
+        "id": 2,
+        "name": "Tamal de Guayaba",
+        "price": 14,
+        "imgUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1637008442/guappjolotas/tamales-guayaba_z9vdk1.svg",
+        "flavorUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1636911025/guappjolotas/guayaba_ndl6pa.svg"
+      },
+      {
+        "id": 3,
+        "name": "Tamal de Piña",
+        "price": 14,
+        "imgUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1637008442/guappjolotas/tamales-pina_i1ijqb.svg",
+        "flavorUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1636911026/guappjolotas/pina_x4zmw5.svg"
+      },
+      {
+        "id": 4,
+        "name": "Tamal de Pasas",
+        "price": 14,
+        "imgUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1637008442/guappjolotas/tamales-pasas_l8h7m2.svg",
+        "flavorUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1636911026/guappjolotas/pasas_jw4mty.svg"
+      }
+    ]
+  }
